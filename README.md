@@ -134,6 +134,6 @@ Estudante de Análise e Desenvolvimento de Sistemas
 Foco em Desenvolvimento Web, UX/UI e aplicações com IA  
 
 🔗 GitHub: https://github.com/joselysilva-dev  
-🔗 LinkedIn: (coloque seu link aqui)
+🔗 LinkedIn: www.linkedin.com/in/joselysilvadev
 
 ---
