@@ -1,53 +1,80 @@
-<div align="center">
-
 # 💜 JourneyPro
 
-### Case de UX/UI para organização de projetos e estudos em tecnologia
+### Organização de projetos e aprendizado em tecnologia
 
-Aplicativo mobile conceitual desenvolvido para ajudar estudantes iniciantes  
-a organizar projetos, acompanhar o aprendizado e visualizar sua evolução.
+O **JourneyPro** é um projeto conceitual de produto digital criado para explorar como estudantes iniciantes em tecnologia podem organizar projetos, tarefas, aprendizados e acompanhar sua evolução em um único ambiente.
 
-[![Protótipo](https://img.shields.io/badge/Ver_protótipo-7C5CFC?style=for-the-badge&logo=figma&logoColor=white)](https://prototipojourneypro.figma.site)
-[![Wireframes](https://img.shields.io/badge/Ver_wireframes-D65DB1?style=for-the-badge&logo=figma&logoColor=white)](https://wireframesjourneypro.figma.site)
+O projeto está atualmente na fase de **UX/UI e prototipação**, com definição do problema, persona, arquitetura da informação, fluxo do usuário, wireframes e protótipo visual.
 
-</div>
+A proposta futura é evoluir o case progressivamente, aplicando conhecimentos de **Engenharia de Software** até chegar a uma aplicação funcional.
 
 ---
 
 ## 📌 Sobre o projeto
 
-O **JourneyPro** é um case de UX/UI criado para explorar uma dificuldade comum entre estudantes iniciantes em tecnologia: organizar projetos, registrar aprendizados e acompanhar a própria evolução.
+Durante o aprendizado em tecnologia, é comum utilizar diferentes ferramentas para estudar, desenvolver projetos, registrar tarefas e acompanhar o próprio progresso.
 
-O projeto apresenta uma proposta de aplicativo mobile com interface simples, hierarquia visual clara e recursos voltados à organização da jornada de aprendizagem.
+O JourneyPro foi concebido para explorar uma experiência mais centralizada, permitindo organizar essas informações de maneira visual e estruturada.
 
-> **Status:** protótipo acadêmico desenvolvido como estudo de UX/UI.
+O projeto trabalha principalmente com:
+
+**projetos + tarefas + aprendizado + progresso.**
+
+### Status atual
+
+🟢 **Case de UX/UI e prototipação desenvolvido**
+
+Atualmente, o projeto possui:
+
+- definição do problema;
+- definição do público-alvo;
+- persona;
+- levantamento inicial de necessidades;
+- arquitetura da informação;
+- fluxo principal de navegação;
+- wireframes;
+- prototipação das telas;
+- documentação do case;
+- fundamentos de acessibilidade e usabilidade.
+
+> O JourneyPro ainda não é uma aplicação funcional.
 
 ---
 
 ## 🎯 Problema
 
-Estudantes iniciantes em tecnologia podem encontrar dificuldades para:
+Estudantes iniciantes em tecnologia podem precisar administrar simultaneamente cursos, projetos, exercícios, tarefas e diferentes ferramentas.
 
-- organizar diferentes projetos;
-- acompanhar o progresso dos estudos;
-- manter uma rotina de aprendizagem;
-- registrar conhecimentos adquiridos;
-- visualizar a própria evolução;
-- reunir tarefas e informações em um único ambiente.
+Entre os problemas considerados durante a concepção do JourneyPro estão:
+
+- dificuldade para organizar diferentes projetos;
+- dificuldade para acompanhar o progresso dos estudos;
+- informações distribuídas em diferentes ferramentas;
+- falta de clareza sobre as próximas atividades;
+- dificuldade para registrar aprendizados importantes;
+- dificuldade para visualizar a própria evolução;
+- desmotivação quando o progresso não é facilmente percebido.
+
+A proposta do JourneyPro é explorar uma experiência que concentre essas informações de maneira simples e visual.
 
 ---
 
 ## 💡 Solução proposta
 
-O JourneyPro propõe uma experiência centralizada para organizar projetos e estudos por meio de:
+O JourneyPro propõe uma experiência mobile para centralizar a organização da jornada de aprendizagem em tecnologia.
 
-- painel de projetos;
-- acompanhamento de progresso;
-- lista de tarefas;
-- registro de aprendizados;
-- organização visual por cards;
-- visualização da evolução;
-- acesso a ferramentas relacionadas aos projetos.
+No conceito do produto, a pessoa usuária pode:
+
+- visualizar seus projetos;
+- organizar tarefas;
+- acompanhar o progresso;
+- consultar próximas atividades;
+- registrar aprendizados;
+- visualizar sua evolução;
+- acessar informações relacionadas aos projetos;
+- concentrar parte da jornada de aprendizagem em um único ambiente.
+
+> Essas funcionalidades representam a proposta do produto e do protótipo. Elas ainda não estão implementadas em software.
 
 ---
 
@@ -55,48 +82,55 @@ O JourneyPro propõe uma experiência centralizada para organizar projetos e est
 
 ### Ana, 22 anos
 
-Estudante iniciante em tecnologia que precisa de uma solução simples e visual para organizar seus estudos, acompanhar projetos e manter consistência no aprendizado.
+Estudante iniciante em tecnologia que busca uma solução simples e visual para organizar estudos, acompanhar projetos e manter maior clareza sobre sua evolução.
 
 ### Necessidades
 
-- visualizar as prioridades;
+- visualizar prioridades;
 - organizar tarefas;
 - acompanhar o progresso;
-- reduzir a sensação de desorganização;
-- registrar aprendizados importantes.
+- registrar aprendizados importantes;
+- identificar próximas atividades;
+- visualizar sua evolução.
 
 ### Dificuldades
 
 - informações espalhadas em diferentes ferramentas;
 - dificuldade para acompanhar vários projetos;
 - falta de clareza sobre as próximas tarefas;
-- desmotivação ao não conseguir visualizar a evolução.
+- dificuldade para registrar o que aprendeu;
+- desmotivação quando não consegue visualizar seu progresso.
+
+> A persona foi criada como recurso de UX para orientar as decisões do projeto.
 
 ---
 
 ## 🧠 Processo de design
 
-O desenvolvimento do case envolveu:
+O desenvolvimento do case passou pelas seguintes etapas:
 
 1. identificação do problema;
 2. definição do público-alvo;
 3. criação da persona;
 4. levantamento das necessidades;
-5. arquitetura da informação;
+5. organização da arquitetura da informação;
 6. definição do fluxo do usuário;
 7. criação dos wireframes;
 8. desenvolvimento do protótipo;
-9. aplicação de fundamentos de acessibilidade;
+9. aplicação de fundamentos de usabilidade e acessibilidade;
 10. documentação do projeto.
+
+O processo foi utilizado para estruturar a experiência antes de uma eventual implementação em software.
 
 ---
 
 ## 🗂️ Arquitetura da informação
 
-A solução foi organizada em áreas principais:
+A solução foi organizada nas seguintes áreas:
 
 ```text
 JourneyPro
+│
 ├── Início
 ├── Projetos
 ├── Tarefas
@@ -105,183 +139,288 @@ JourneyPro
 └── Perfil
 ```
 
-Essa estrutura procura facilitar a navegação e reduzir a quantidade de informações apresentadas ao mesmo tempo.
+Essa estrutura busca facilitar a navegação e separar as informações de acordo com a função que exercem dentro da jornada de aprendizagem.
 
 ---
 
 ## 🔄 Fluxo principal
 
+O fluxo principal concebido para a experiência é:
+
 ```text
 Entrada
-↓
+   ↓
 Dashboard
-↓
+   ↓
 Visualização dos projetos
-↓
+   ↓
 Seleção de um projeto
-↓
+   ↓
 Consulta das tarefas
-↓
+   ↓
 Atualização do progresso
-↓
+   ↓
 Registro de aprendizados
 ```
+
+O fluxo representa uma das principais jornadas consideradas durante a prototipação.
 
 ---
 
 ## ✨ Funcionalidades propostas
 
-- Dashboard com visão geral
-- Organização de projetos
-- Acompanhamento de progresso
-- Checklist de tarefas
-- Registro de aprendizados
-- Visualização das próximas atividades
-- Feedback visual das ações
-- Perfil da pessoa usuária
-- Integração conceitual com Figma e GitHub
+No protótipo foram consideradas funcionalidades como:
 
-> As funcionalidades representam a proposta do protótipo e não uma aplicação publicada em produção.
+- Dashboard com visão geral;
+- organização de projetos;
+- acompanhamento de progresso;
+- lista de tarefas;
+- registro de aprendizados;
+- visualização das próximas atividades;
+- feedback visual das ações;
+- perfil da pessoa usuária;
+- referências conceituais a ferramentas relacionadas ao desenvolvimento.
+
+> As funcionalidades representam o design do produto e não uma aplicação publicada ou funcional.
+
+---
+
+## 🔗 Integrações conceituais
+
+Durante a concepção do JourneyPro foram consideradas referências a ferramentas utilizadas no desenvolvimento de projetos, incluindo **GitHub e Figma**.
+
+Nesta fase, essas referências fazem parte apenas do conceito do produto.
+
+O projeto atualmente:
+
+- não possui integração real com GitHub;
+- não possui integração real com Figma;
+- não consome APIs dessas plataformas;
+- não sincroniza projetos automaticamente.
+
+Integrações reais poderão ser avaliadas durante etapas futuras de Engenharia de Software.
 
 ---
 
 ## 🎨 Decisões de UX/UI
 
-### Organização por cards
+### Organização por cartões
 
-Os projetos e conteúdos são apresentados em cards para facilitar a identificação e a separação visual das informações.
+Projetos e conteúdos são apresentados visualmente em cartões para facilitar sua identificação e separação.
 
 ### Hierarquia visual
 
-Títulos, informações de progresso e ações possuem diferentes níveis de destaque para orientar a navegação.
+Títulos, informações de progresso e ações recebem diferentes níveis de destaque para orientar a navegação.
 
 ### Redução da carga cognitiva
 
-A interface procura apresentar apenas as informações necessárias em cada etapa.
+A interface busca apresentar as informações necessárias em cada contexto sem concentrar excesso de conteúdo em uma única tela.
 
 ### Feedback visual
 
-Estados de progresso, conclusão e interação foram pensados para comunicar o resultado das ações.
+Estados de progresso, conclusão e interação foram considerados para comunicar o resultado das ações.
 
 ### Navegação simples
 
-A arquitetura utiliza categorias diretas e uma quantidade controlada de opções.
+A arquitetura utiliza categorias diretas e uma quantidade controlada de opções principais.
 
 ---
 
-## ♿ Acessibilidade
+## ♿ Acessibilidade e usabilidade
 
-O protótipo considera fundamentos de acessibilidade, como:
+Durante a prototipação foram considerados fundamentos como:
 
 - contraste entre textos e fundos;
 - informações que não dependem somente de cores;
 - combinação de ícones e textos;
 - hierarquia de títulos;
-- áreas de interação com tamanho adequado;
-- linguagem simples;
-- feedback visual para diferentes estados;
-- navegação consistente.
+- áreas de interação identificáveis;
+- legibilidade;
+- feedback visual;
+- consistência de navegação;
+- organização previsível das telas.
+
+> O projeto ainda não passou por uma auditoria formal de acessibilidade.
 
 ---
 
 ## 🖼️ Protótipo
 
-### Visão geral
+O repositório contém imagens que documentam diferentes partes do protótipo, incluindo:
 
-![Visão geral do protótipo](assets/prototipo/journeypro-prototipo-visao-geral.png)
+- visão geral;
+- telas;
+- funcionalidades;
+- apresentação do projeto.
 
-### Telas
-
-![Telas do protótipo](assets/prototipo/journeypro-prototipo-telas.png)
-
-### Funcionalidades
-
-![Funcionalidades do protótipo](assets/prototipo/journeypro-prototipo-funcionalidades.png)
+Esses materiais representam o conceito visual desenvolvido para o JourneyPro.
 
 ---
 
 ## 🧩 Wireframes
 
-### Estrutura
+Os wireframes foram utilizados para estruturar a experiência antes do refinamento visual.
 
-![Estrutura dos wireframes](assets/wireframes/journeypro-wireframe-visao-geral.png)
+O repositório contém materiais referentes a:
 
-### Fluxo do usuário
+- visão geral dos wireframes;
+- fluxo do usuário.
 
-![Fluxo do usuário](assets/wireframes/journeypro-wireframe-fluxo-usuario.png)
-
----
-
-## 🔗 Acessar o projeto
-
-### Protótipo interativo
-
-[Visualizar o protótipo do JourneyPro](https://prototipojourneypro.figma.site)
-
-### Wireframes
-
-[Visualizar os wireframes do JourneyPro](https://wireframesjourneypro.figma.site)
+Eles documentam uma etapa anterior ao desenvolvimento visual do protótipo.
 
 ---
 
 ## 🛠️ Ferramentas e práticas
 
-- Figma
-- UX/UI Design
-- Arquitetura da informação
-- Wireframes
-- Prototipação
-- Design de interface
-- Mobile First
-- Fundamentos de acessibilidade
-- Documentação de projeto
+Neste estágio do projeto foram trabalhados:
+
+- UX/UI Design;
+- arquitetura da informação;
+- criação de persona;
+- fluxo do usuário;
+- wireframes;
+- prototipação;
+- design de interface;
+- abordagem mobile-first;
+- fundamentos de acessibilidade;
+- fundamentos de usabilidade;
+- documentação de produto.
 
 ---
 
 ## 📚 Aprendizados
 
-Durante o desenvolvimento deste projeto, foram praticados:
+O desenvolvimento do JourneyPro permitiu praticar:
 
-- definição de problemas;
+- análise de problema;
+- definição de público-alvo;
 - criação de persona;
-- identificação das necessidades do público;
+- identificação de necessidades;
+- transformação de necessidades em funcionalidades propostas;
 - organização da arquitetura da informação;
-- desenvolvimento do fluxo do usuário;
+- construção de fluxo do usuário;
 - criação de wireframes;
 - prototipação de interfaces mobile;
 - hierarquia visual;
 - redução de carga cognitiva;
 - fundamentos de usabilidade;
 - fundamentos de acessibilidade;
-- documentação de um case de UX/UI.
+- documentação de um case de produto digital.
 
 ---
 
-## 🚧 Limites do projeto
+## 🚧 Limitações atuais
 
-O JourneyPro é um estudo de UX/UI e, atualmente:
+O JourneyPro encontra-se atualmente na fase de **produto, UX/UI e prototipação**.
 
-- não possui frontend implementado;
-- não possui backend;
-- não utiliza banco de dados;
-- não realiza autenticação real;
-- não está destinado à produção;
-- representa uma proposta navegável criada no Figma.
+Por isso, nesta versão:
 
-Essas informações deixam clara a diferença entre o protótipo e uma aplicação funcional.
+- não existe frontend funcional;
+- não existe backend;
+- não existe API;
+- não existe banco de dados;
+- não existe autenticação real;
+- não existe persistência de dados;
+- não existem integrações funcionais com GitHub ou Figma;
+- não existem testes automatizados de software;
+- não existe aplicativo publicado;
+- o protótipo não é destinado à produção.
+
+Esta separação permite distinguir claramente o que foi **projetado** do que já foi **implementado em software**.
 
 ---
 
-## 🔮 Possíveis evoluções
+# 🚀 Evolução do JourneyPro
 
-- Realizar testes de usabilidade
-- Refinar o design system
-- Criar uma versão de alta fidelidade
-- Desenvolver o frontend
-- Implementar autenticação
-- Criar uma API para projetos e tarefas
-- Adicionar persistência de dados
-- Integrar o projeto ao GitHub
+O JourneyPro pode evoluir de um case de UX/UI para um projeto mais completo de **Engenharia de Software**.
+
+A evolução será documentada progressivamente conforme novas etapas forem realmente desenvolvidas.
+
+```text
+Problema e conceito
+        ↓
+UX/UI e prototipação
+        ↓
+Requisitos do sistema
+        ↓
+Regras de negócio
+        ↓
+Modelagem de dados
+        ↓
+Arquitetura da aplicação
+        ↓
+Backend e API
+        ↓
+Aplicação cliente
+        ↓
+Testes
+        ↓
+Integrações
+        ↓
+Automações e IA, quando fizerem sentido
+        ↓
+Publicação e evolução do produto
+```
+
+## ✅ Etapa atual — Produto e UX/UI
+
+- [x] Definição do problema
+- [x] Definição do público-alvo
+- [x] Criação da persona
+- [x] Arquitetura da informação
+- [x] Fluxo principal
+- [x] Wireframes
+- [x] Prototipação
+- [x] Documentação inicial
+
+## ⏳ Próximas etapas
+
+- [ ] Revisar e documentar requisitos funcionais
+- [ ] Documentar requisitos não funcionais
+- [ ] Definir regras de negócio
+- [ ] Modelar as entidades principais
+- [ ] Criar o modelo de dados
+- [ ] Definir a arquitetura técnica
+- [ ] Definir a stack de implementação
+- [ ] Implementar backend/API
+- [ ] Implementar persistência de dados
+- [ ] Desenvolver uma aplicação funcional
+- [ ] Implementar autenticação, caso necessária
+- [ ] Criar testes automatizados
+- [ ] Realizar testes de usabilidade
+- [ ] Avaliar integração real com GitHub
+- [ ] Avaliar outras integrações relevantes
+- [ ] Avaliar automações
+- [ ] Avaliar aplicações de IA que resolvam necessidades reais do produto
+
+> Os itens acima representam etapas planejadas ou possibilidades de evolução e não funcionalidades já implementadas.
+
+---
+
+## 🤖 Automação e IA no futuro
+
+Automação e Inteligência Artificial poderão ser estudadas futuramente caso resolvam problemas reais dentro da experiência do JourneyPro.
+
+Algumas possibilidades que poderão ser avaliadas incluem:
+
+- organização automática de atividades;
+- categorização de tarefas;
+- apoio ao acompanhamento da evolução;
+- resumo de informações registradas pela pessoa usuária;
+- sugestões relacionadas aos projetos;
+- automação de atividades repetitivas.
+
+Essas possibilidades fazem parte da **exploração futura** e não estão implementadas na versão atual.
+
+---
+
+## 📌 Status do projeto
+
+**Fase atual:** UX/UI e prototipação  
+**Implementação de software:** ainda não iniciada  
+**Objetivo futuro:** evolução progressiva como projeto de Engenharia de Software
+
+O repositório será atualizado conforme novas etapas forem realmente desenvolvidas.
 
 ---
 
@@ -289,18 +428,12 @@ Essas informações deixam clara a diferença entre o protótipo e uma aplicaç�
 
 **Josely Silva Lima**
 
-Estudante do 2º semestre de Engenharia de Software  
-Desenvolvedora Backend e Full Stack em formação  
-Fundadora da Luara Digital
+Estudante de Engenharia de Software, desenvolvendo conhecimentos em programação, banco de dados, backend, automação e inteligência artificial.
 
-[![GitHub](https://img.shields.io/badge/GitHub-2A1835?style=for-the-badge&logo=github&logoColor=F4B8E4)](https://github.com/joselysilva-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C5CFC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joselysilvadev)
-[![E-mail](https://img.shields.io/badge/E--mail-D65DB1?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joselysilvadev@gmail.com)
+O JourneyPro faz parte do meu portfólio de estudos e registra a evolução de um produto desde a concepção e prototipação até futuras etapas de Engenharia de Software.
 
----
+### 📫 Contato
 
-<div align="center">
+**LinkedIn:** [linkedin.com/in/joselysilvadev](https://www.linkedin.com/in/joselysilvadev)
 
-Projeto desenvolvido para estudo e evolução em experiência do usuário.
-
-</div>
+**E-mail:** [joselysilva.dev@gmail.com](mailto:joselysilva.dev@gmail.com)
